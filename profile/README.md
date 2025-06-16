@@ -19,9 +19,8 @@ Each service is isolated, independently deployable, and connected through Eureka
 
 ## 🚀 Tech Stack
 
-- Spring Boot 3.x
+- Spring Boot 3.5.0
 - Spring Cloud (Eureka, Gateway, Feign)
-- React + Vite
 - Docker + GitHub Actions (CI/CD)
 
 ---
@@ -35,7 +34,3 @@ Each service is isolated, independently deployable, and connected through Eureka
 ## 📂 Repositories
 
 각각의 마이크로서비스는 별도의 저장소로 관리됩니다.
-
-- [`auth-service`](https://github.com/your-org/auth-service)
-- [`user-service`](https://github.com/your-org/user-service)
-- [`gateway`](https://github.com/your-org/gateway)
